@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "709194347308",
+    "firebase_url": "https://rovermap-b1c4a.firebaseio.com",
+    "project_id": "rovermap-b1c4a",
+    "storage_bucket": "rovermap-b1c4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709194347308:android:c1598ec26da357e2",
+        "android_client_info": {
+          "package_name": "com.rana.rovermap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709194347308-6c693u9cm9i9st5vr41sj2lrfkcggne8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfoaHS1J40DbGaBBdbTWx51_oYdiGf35s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
